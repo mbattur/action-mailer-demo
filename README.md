@@ -9,4 +9,4 @@
 - Add dynamic content to the template via haml and erb
 - Pass the dynamic content via a instance variable on the mailer. @example
 - ?
-- Profit
+- Profit# action-mailer-demo
